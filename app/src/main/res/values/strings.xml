@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android_project3</string>
+    <string name="buttom">这是一个AlertDialog测试按键</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="Sign">Sign in</string>
+    <string name="settings">settings</string>
+    <string name="font_size">字体大小</string>
+    <string name="font_10">小号</string>
+    <string name="font_16">中号</string>
+    <string name="font_20">大号</string>
+    <string name="normal_button">普通菜单项</string>
+    <string name="font_color">字体颜色</string>
+    <string name="color_red">红色</string>
+    <string name="color_black">黑色</string>
+    <string name="test_text">这是测试文本</string>
+    <string name="item_delete">item_delete</string>
+    <string name="right">right</string>
+    <string name="select">1 select</string>
+</resources>
